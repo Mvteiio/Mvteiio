@@ -86,7 +86,7 @@ En pocas palabras: **un desarrollador en proceso, con mentalidad de constante ev
 <td width="50%">
 <h3 align="center">Base de datos - Sistema Hospitalario</h3>
 <div align="center">
-<a href="https://mvteiio.github.io/KarioMedia/paginaPrincipal.html" target="_blank"><a href="https://ibb.co/BK53W8mz"><img src="https://i.ibb.co/HTCXLG2M/Captura-desde-2025-07-23-07-38-40.png" alt="Captura-desde-2025-07-23-07-38-40" border="0"></a></a> 
+<a href="https://mvteiio.github.io/KarioMedia/paginaPrincipal.html" target="_blank"><a href="https://ibb.co/BK53W8mz"><img src="https://ibb.co/BK53W8mz" alt="Captura-desde-2025-07-23-07-38-40" border="0"></a></a> 
 <p>
 <a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
