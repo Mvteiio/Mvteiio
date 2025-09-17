@@ -1,5 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=1000&color=EEEEEE&background=6854C010&width=555&lines=Hola!+Soy+Mateo+Developer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<div align="left">
+<div align="center">
+  <img src="./images/Banner_RomanMateo.png"></img>
+</div>
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=1000&color=EEEEEE&background=6854C010&width=610&lines=Hola!+Bienvenidos+a+mi+perfil+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mvteiio.Mvteiio&"  />
 </div>
 
@@ -7,11 +14,15 @@
 
 <h2 align="center">👨‍💻 Sobre mí  </h2>
 
-- 🎓 Formación técnica en desarrollo de software (Campuslands) y bachiller comercial.
+Soy **Mateo**, un joven en formación como **desarrollador de software** que busca crecer no solo en lo técnico, sino también como persona. 🚀  
 
-- 💡 Apasionado por la tecnología y en constante búsqueda de nuevos aprendizajes.
-- 🛠️ Actualmente reforzando mis conocimientos en bases de datos NoSQL, especialmente MongoDB.
-- 👨‍💻 Interesado en crear soluciones web funcionales, tanto en frontend como en gestión de datos.
+Me considero alguien **curioso, perseverante y con una visión clara hacia el futuro**, siempre abierto a aprender y a enfrentar nuevos retos. Creo en el valor de la **disciplina, la empatía y la colaboración**, tanto en la vida personal como en los proyectos profesionales.  
+
+Actualmente estoy reforzando mis bases en **desarrollo web**, **gestión de datos** y **desarrollo back-end**, con un interés especial en bases de datos como **MongoDB**. 📊  
+
+Más allá del código, me motiva la idea de **crear soluciones que realmente aporten valor a las personas**, combinando tecnología con propósito. 🌍✨  
+
+En pocas palabras: **un desarrollador en proceso, con mentalidad de constante evolución y el deseo de dejar una huella positiva en cada equipo y proyecto en el que participe.** 💡
 
 <h2 align="center">💬 Habilidades blandas  </h2>
 
@@ -23,26 +34,12 @@
 - 🎯 Compromiso con metas y entrega con atención al detalle.
 - 😊 Actitud proactiva, empática y orientada a sumar al equipo.
 
-<h2 align="center">Mis habilidades </h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,mysql,html,css,python,git,figma,nodejs,express,bootstrap,linux" />
+  </a>
+</p>
 
 <h2 align="center">Proyectos destacados</h2>
 <table>
@@ -87,6 +84,13 @@
 </div>
 <br>
 
+<div align="center">
+
+  ![Mvteiio's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvteiio&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvteiio&layout=compact&theme=transparent)
+
+</div>
+
+
 <h2 align="center">☎️ Contactos</h2>
 
 <p align="center">
@@ -105,7 +109,8 @@
 <a href="https://mvteiio.github.io/Portafolio_RomanMateo/" target="_blank">
 <img src="https://img.shields.io/badge/Ver Portafolio-FFFFFF?style=for-the-badge&logoColor=black">
 </a>
-<a href="https://mvteiio.github.io/Portafolio_RomanMateo/CV/romanMateo_CV.pdf" target="_blank">
+<a href="https://github.com/mvteiio/mvteiio/raw/main/CV/CV_RomanMateo.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Descargar CV-green?style=for-the-badge&color=000000">
 </a>
 </p>
+
