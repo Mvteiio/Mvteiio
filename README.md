@@ -67,7 +67,7 @@ En pocas palabras: **un desarrollador en proceso, con mentalidad de constante ev
                <br>
 <h3 align="center">Formula 1 Web Page</h3>
 <div align="center">                                       
-<a href="https://juan-771.github.io/Proyecto_Javascript_S1_AbrilJuan_RomanMateo/html/userPages/principalPage.html" target="_blank"><img src="https://i.ibb.co/3ynvSv7G/Captura-desde-2025-07-23-07-44-40.png" alt="Captura-desde-2025-07-23-07-44-40" border="0"></a></a>
+<a href="https://juan-771.github.io/Proyecto_Javascript_S1_AbrilJuan_RomanMateo/html/userPages/principalPage.html" target="_blank"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlNnN3djZjYm9yY3BmZGNkeWRtb29nbTM0Ym9iMTEyN3pkdGNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLLGj2bYYm2mm6nwVT/giphy.gif" width=400 alt="Captura-desde-2025-07-23-07-44-40" border="0"></a></a>
 <br>
 <p>
 <a href="https://github.com/Juan-771/Proyecto_Javascript_S1_AbrilJuan_RomanMateo" target="_blank">
@@ -86,7 +86,7 @@ En pocas palabras: **un desarrollador en proceso, con mentalidad de constante ev
 <td width="50%">
 <h3 align="center">Base de datos - Sistema Hospitalario</h3>
 <div align="center">
-<a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara" target="_blank"><a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara"><img src="https://i.ibb.co/Tqx2jzZv/Captura-de-pantalla-2025-09-16-215217.png" alt="Captura-desde-2025-07-23-07-38-40" border="0"></a></a> 
+<a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara" target="_blank"><a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara"><img src="https://i.pinimg.com/originals/d4/55/e3/d455e3be112235e6f70ce41be9ffd6d2.gif" width=300 alt="Captura-desde-2025-07-23-07-38-40" border="0"></a></a> 
 <p>
 <a href="https://github.com/Mvteiio/Proyecto_mongoDB_RomanMateo_AparicioSayara" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
